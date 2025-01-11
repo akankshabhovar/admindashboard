@@ -2,4 +2,4 @@
 
 #### For run project cmd
 ## npm i
-## mpm start
+## npm start
